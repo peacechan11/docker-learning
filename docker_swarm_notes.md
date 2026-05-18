@@ -1,4 +1,4 @@
-# Docker Swarm Notes မြန်မာလို
+# Docker Swarm Notes
 
 ## အကျဉ်းချုပ်
 
